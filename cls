@@ -10,7 +10,7 @@
  * @copyright Copyright (c) ${5:`(format-time-string "%Y" (current-time))`} ${6:copyright}
  */
 
-class ${7}
+class ${7:cname}
 {
    public function ${8:__construct}()
    {
